@@ -1,12 +1,9 @@
-# Amitha21
-
-# Hi 👋, I'm Pradip Kachhadiya
+# Hi 👋, I'm Amitha Elizabha Raju
 
 ## 👨‍💻 About Me
 
-- 😄 **Call me:** He/Him or Team Worker  
-- 💡 A passionate **self-taught AI Engineer** and **Full-Stack Developer**  
-- 🤝 Actively helping the **Python and JavaScript community on Stack Overflow** in my spare time  
+- 😄 **Call me:** She/Her or Team Worker  
+- 💡 A passionate **self-taught Python Engineer** and **Full-Stack Developer**  
 - 💬 Ask me anything — *if I’m alive, I’ll reply within seconds 😉*
 
 ---
